@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-case-for-christianity/the-case-for-christianity-strengthening-faith-with-reason-logic-and-fact/","title":"The Case for Christianity","tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/the-case-for-christianity/the-case-for-christianity-strengthening-faith-with-reason-logic-and-fact/","title":"~The Case for Christianity - Home Page","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 # Introduction
