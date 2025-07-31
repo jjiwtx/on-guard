@@ -4,9 +4,11 @@
 
 ***Change this page since most of it has been moved over to The Week 1 page***
 
+# Getting Started
+Go to the webpage for [[**Week 1**\|Week 1 - Click here]] to learn about the course and how to get started. 
 
 # Resources 
-
+- Handouts with Discussion Questions - [Google Drive](https://drive.google.com/drive/folders/1CKNNgiogAsnV4Hmxs-1QpDf7Ps98MWJe?usp=drive_link)
 
 # Schedule
 
