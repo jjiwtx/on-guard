@@ -6,8 +6,15 @@
 
 Welcome to the course, **The Case for Christianity: Strengthening Faith with Reason, Logic, and Fact**. In this course, we'll be walking through the book, [*On Guard: Defending Your Faith with Reason and Precision* by William Lane Craig](https://www.amazon.com/Guard-Defending-Faith-Reason-Precision/dp/1434764885/), which is available as a paperback book or a Kindle book (ebook). If you would like, you can also purchase the study guide - [On Guard Study Guide by William Lane Craig and Dennis W. Fuller](https://www.amazon.com/Guard-Study-Guide-William-Craig/dp/1452889589/), which is available as a paperback. 
 
+# My Philosophy of Teaching and Learning
+As a former college educator, I have a certain philosophy of teaching and learning that will be expressed in this course. I see my role as a facilitator of learning, not a teacher. In other words, it's my intent to provide you with the resources, tools and the opportunities to help you learn. 
+
+Although the term, "student" is traditionally used for the persons in the classroom, I'd like to you to see yourself as learners. This coincides with my role as a facilitator of learning, but it also helps you see that your role is to take advantage of the resources, opportunities and tools that are provided to learn. As a learner, try to approaches what you learn with curiosity. Be inquisitive. Don't seek to just understand the information, but contemplate and think about it so that it shapes the way you see the world. Look for and absorb insights and let those truths guide your view of the world, God, and how to relate and interact with others.
+
+
+
 # Format of the Course
-Each week, we'll be discussing the contents of the ten chapters of *On Guard*. It is not my intent to *cover* each chapter, but rather to *uncover* each chapter. Although I will do some "presenting" of the content, the focus of each session is to give you, in conjunction with your fellow learners, to explore, discuss, clarify, and ask questions related to the content. Therefore, one type of activity we will engage is is called "think-pair-share" in which I will pose a question, or offer to you a choice of questions. We'll divide up into groups of two or three. You'll think about it
+Each week, we'll be discussing the contents of the ten chapters of *On Guard*. It is not my intent to *cover* each chapter, but rather to *uncover* each chapter. Although I will do some "presenting" of the content, the focus of each session is to give you, in conjunction with your fellow learners, to explore, discuss, clarify, and ask questions related to the content. Therefore, one type of activity we will engage is is called "think-pair-share" in which I will pose a question, or offer to you a choice of questions. We'll divide up into groups of two or three. You'll think about your answer to the question(s). Then you'll share your thoughts with the members of the group. 
 
 # Resources 
 
