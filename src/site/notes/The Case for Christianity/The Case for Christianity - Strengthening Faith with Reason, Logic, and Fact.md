@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-case-for-christianity/the-case-for-christianity-strengthening-faith-with-reason-logic-and-fact/","title":"~The Case for Christianity - Home Page","tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/the-case-for-christianity/the-case-for-christianity-strengthening-faith-with-reason-logic-and-fact/","title":"The Case for Christianity - Home Page","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 # Introduction
@@ -15,8 +15,6 @@ Each week, we will have only a little over of hour for "class" time. So in order
 
 # Format of the Course
 Each week, we'll be discussing the contents of the ten chapters of *On Guard*. It is not my intent to *cover* each chapter, but rather to *uncover* each chapter. Although I will do some "presenting" of the content, the focus of each session is to give you, in conjunction with your fellow learners, to explore, discuss, clarify, and ask questions related to the content. Therefore, one type of activity we will engage is is called "think-pair-share" in which I will pose a question, or offer to you a choice of questions. We'll divide up into groups of two or three. You'll think about your answer to the question(s). Then you'll share your thoughts with the members of the group. 
-
-
 
 # Resources 
 
