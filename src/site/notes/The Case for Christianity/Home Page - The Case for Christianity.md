@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/the-case-for-christianity/home-page-the-case-for-christianity/","title":"Home Page - Start Here","tags":["gardenEntry"],"dgShowToc":"true","noteIcon":""}
 ---
 
-***Change this page since most of it ***
+***Change this page since most of it has been moved over to The Week 1 page***
 
 
 # Resources 
@@ -39,15 +39,6 @@
 
 </div></div>
 
-
-# Chapters
-
-| [[The Case for Christianity/Chapters/Ch.1 - What is Apologetics?\|Ch.1 - What is Apologetics?]] | Ch.6 - Can We Be Good Without God?    |
-| ----------------------------------------------------------------------------------------------- | ------------------------------------- |
-| Ch.2 - What Difference Does it Make if God Exists?                                              | Ch.7 - What About Suffering?          |
-| Ch.3 - Why Does Anything at All Exist?                                                          | Ch.8 - Who Was Jesus?                 |
-| Ch.4 - Why Did the Universe Begin?                                                              | Ch.9 - Did Jesus Rise from the Dead?  |
-| Ch.5 - Why is the Universe Fine-tuned for Life?                                                 | Ch.10 - Is Jesus the Only Way to God? |
 
 
 ---
