@@ -26,3 +26,20 @@ The following is a list of books to consider for further reading and is not nece
 - PDF: [*Logic: A God-Centered Approach to the Foundation of Western Thought* - free PDF of book by Vern Poythress](https://frame-poythress.org/wp-content/uploads/2013/07/BLogicFinal.pdf)
 - Book: [*Logic and the Way of Jesus: Thinking Critically and Christianly* by Travis Dickinson](https://a.co/d/0tuQ2q3)
 - Book: [*The Christian's Handbook to Logical Fallacies: An Easy-to-Understand Guide for Identifying Poor Reasoning and Flawed Arguments* by Eitan Bar](https://a.co/d/cHLwd5l)
+
+---
+# Schedule of Weeks
+| Week (click on date)      | Topic                                              |
+| ------------------------- | -------------------------------------------------- |
+| [[The Case for Christianity/Weeks/Week 1 - Aug.20, 2025\|Week 1 - Aug.20, 2025]] | Introduction to the course                         |
+|                           | Ch.1 - What is Apologetics?                        |
+|                           | Ch.2 - What Difference Does it Make if God Exists? |
+|                           | Ch.3 - Why Does Anything at All Exist?             |
+|                           | Ch.4 - Why Did the Universe Begin?                 |
+|                           | Ch.5 - Why is the Universe Fine-tuned for Life?    |
+|                           | Ch.6 - Can We Be Good Without God?                 |
+|                           | Ch.7 - What About Suffering?                       |
+|                           | Ch.8 - Who Was Jesus?                              |
+|                           | Ch.9 - Did Jesus Rise from the Dead?               |
+|                           | Ch.10 - Is Jesus the Only Way to God?              |
+|                           | Wrap-Up and Exploration of Further Learning        |
