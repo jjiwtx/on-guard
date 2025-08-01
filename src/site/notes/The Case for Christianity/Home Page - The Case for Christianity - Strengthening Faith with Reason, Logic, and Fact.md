@@ -19,7 +19,7 @@ Go to the webpage for [[**Week 1**\|Week 1 - Click here]] to learn about the cou
 - Handouts with Discussion Questions - [Google Drive](https://drive.google.com/drive/folders/1CKNNgiogAsnV4Hmxs-1QpDf7Ps98MWJe?usp=drive_link)
 
 # Questions
-If you have any questions, feel free to email me at 
+If you have any questions, feel free to email me at thecaseforchristianity2025 at gmail dot com. (Replace the word "at" with @ and "dot" with a .)
 
 
 ---
